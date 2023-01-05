@@ -1,0 +1,23 @@
+C:\Users\Chimerinho\Documents\c# progetti\Progetto 1\obj\Debug\net6.0\Progetto 1.csproj.AssemblyReference.cache
+C:\Users\Chimerinho\Documents\c# progetti\Progetto 1\obj\Debug\net6.0\Progetto 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chimerinho\Documents\c# progetti\Progetto 1\obj\Debug\net6.0\Progetto 1.AssemblyInfoInputs.cache
+C:\Users\Chimerinho\Documents\c# progetti\Progetto 1\obj\Debug\net6.0\Progetto 1.AssemblyInfo.cs
+C:\Users\Chimerinho\Documents\c# progetti\Progetto 1\obj\Debug\net6.0\Progetto 1.csproj.CoreCompileInputs.cache
+C:\Users\Chimerinho\Documents\c# progetti\Progetto 1\bin\Debug\net6.0\Progetto 1.exe
+C:\Users\Chimerinho\Documents\c# progetti\Progetto 1\bin\Debug\net6.0\Progetto 1.deps.json
+C:\Users\Chimerinho\Documents\c# progetti\Progetto 1\bin\Debug\net6.0\Progetto 1.runtimeconfig.json
+C:\Users\Chimerinho\Documents\c# progetti\Progetto 1\bin\Debug\net6.0\Progetto 1.dll
+C:\Users\Chimerinho\Documents\c# progetti\Progetto 1\bin\Debug\net6.0\Progetto 1.pdb
+C:\Users\Chimerinho\Documents\c# progetti\Progetto 1\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\Chimerinho\Documents\c# progetti\Progetto 1\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Chimerinho\Documents\c# progetti\Progetto 1\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Chimerinho\Documents\c# progetti\Progetto 1\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Chimerinho\Documents\c# progetti\Progetto 1\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Chimerinho\Documents\c# progetti\Progetto 1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Chimerinho\Documents\c# progetti\Progetto 1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Chimerinho\Documents\c# progetti\Progetto 1\obj\Debug\net6.0\Progetto 1.csproj.CopyComplete
+C:\Users\Chimerinho\Documents\c# progetti\Progetto 1\obj\Debug\net6.0\Progetto 1.dll
+C:\Users\Chimerinho\Documents\c# progetti\Progetto 1\obj\Debug\net6.0\refint\Progetto 1.dll
+C:\Users\Chimerinho\Documents\c# progetti\Progetto 1\obj\Debug\net6.0\Progetto 1.pdb
+C:\Users\Chimerinho\Documents\c# progetti\Progetto 1\obj\Debug\net6.0\Progetto 1.genruntimeconfig.cache
+C:\Users\Chimerinho\Documents\c# progetti\Progetto 1\obj\Debug\net6.0\ref\Progetto 1.dll
